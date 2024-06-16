@@ -31,6 +31,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=ag142&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ag142&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 
