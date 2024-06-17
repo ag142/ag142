@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aelli Gupta</h1>
 <h3 align="center">A Aspiring Technologist || C++, Python, ML & Data Science Enthusiast || Eager Learner & Innovator || Web Development</h3>
 
-- 👨‍💻 All of my projects are available at [https://aelli14.000webhostapp.com/](https://aelli14.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at **[https://aelli14.000webhostapp.com/]**(https://aelli14.000webhostapp.com/)
 
 - 📫 How to reach me **aelligupta142@gmail.com**
 
